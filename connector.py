@@ -1,6 +1,6 @@
 #!/bin/python3
 
-#connect to this ip and port
+#Simple connector which allows you to connect to this ip and port
 import socket
 
 HOST = "127.0.0.1"
