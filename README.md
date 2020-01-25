@@ -1,2 +1,2 @@
-# python-udemy-course-
-Some simple script for python study
+# python3-study
+Some simple scripts for python study
