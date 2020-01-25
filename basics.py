@@ -1,3 +1,4 @@
+#Basic aspects to study python.
 #!/bin/python3
 def alcohol(age, money):
 	if (age >= 21) and (money >= 5):
